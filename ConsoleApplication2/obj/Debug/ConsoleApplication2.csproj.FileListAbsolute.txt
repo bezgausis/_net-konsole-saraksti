@@ -1,0 +1,19 @@
+c:\users\deniv\onedrive\documents\visual studio 2015\Projects\ConsoleApplication2\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe.config
+c:\users\deniv\onedrive\documents\visual studio 2015\Projects\ConsoleApplication2\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe
+c:\users\deniv\onedrive\documents\visual studio 2015\Projects\ConsoleApplication2\ConsoleApplication2\bin\Debug\ConsoleApplication2.pdb
+c:\users\deniv\onedrive\documents\visual studio 2015\Projects\ConsoleApplication2\ConsoleApplication2\obj\Debug\ConsoleApplication2.exe
+c:\users\deniv\onedrive\documents\visual studio 2015\Projects\ConsoleApplication2\ConsoleApplication2\obj\Debug\ConsoleApplication2.pdb
+C:\Users\deniv\OneDrive\Documents\Visual Studio 2015\Projects\ConsoleApplication2\ConsoleApplication2\obj\Debug\ConsoleApplication2.Form1.resources
+C:\Users\deniv\OneDrive\Documents\Visual Studio 2015\Projects\ConsoleApplication2\ConsoleApplication2\obj\Debug\ConsoleApplication2.csproj.GenerateResource.Cache
+C:\Users\deniv\onedrive\documents\visual studio 2015\Projects\ConsoleApplication2\ConsoleApplication2\obj\Debug\ConsoleApplication2.csprojResolveAssemblyReference.cache
+C:\Users\deniv\Documents\MEGAsync Downloads\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe.config
+C:\Users\deniv\Documents\MEGAsync Downloads\ConsoleApplication2\obj\Debug\ConsoleApplication2.exe
+C:\Users\deniv\Documents\MEGAsync Downloads\ConsoleApplication2\obj\Debug\ConsoleApplication2.pdb
+C:\Users\deniv\Documents\MEGAsync Downloads\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe
+C:\Users\deniv\Documents\MEGAsync Downloads\ConsoleApplication2\bin\Debug\ConsoleApplication2.pdb
+C:\Users\deniv\Documents\MEGAsync Downloads\ConsoleApplication2\obj\Debug\ConsoleApplication2.csprojResolveAssemblyReference.cache
+C:\Users\deniv\Documents\MEGAsync Downloads\ConsoleApplication2\obj\Debug\ConsoleApplication2.Form1.resources
+C:\Users\deniv\Documents\MEGAsync Downloads\ConsoleApplication2\obj\Debug\ConsoleApplication2.csproj.GenerateResource.Cache
+C:\Users\deniv\Documents\Visual Studio 2015\Projects\konsoles_app_saraksti\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe.config
+C:\Users\deniv\Documents\Visual Studio 2015\Projects\konsoles_app_saraksti\ConsoleApplication2\obj\Debug\ConsoleApplication2.exe
+C:\Users\deniv\Documents\Visual Studio 2015\Projects\konsoles_app_saraksti\ConsoleApplication2\obj\Debug\ConsoleApplication2.pdb
